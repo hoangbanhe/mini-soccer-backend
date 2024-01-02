@@ -1,7 +1,8 @@
 
 In the project directory, you can run:
 
-npm run devStart
+npm run devStart,
+
 Runs the app in the development mode.
 Open http://localhost:3000 to run server
 
